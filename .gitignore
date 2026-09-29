@@ -1,0 +1,8 @@
+qyai/
+venv/
+__pycache__/
+*.pyc
+.env
+scores.db
+*.mp4
+.DS_Store
